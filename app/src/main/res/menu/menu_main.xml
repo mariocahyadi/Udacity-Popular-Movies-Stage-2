@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mario99ukdw.popularmovies2.MainActivity">
+    <item android:id="@+id/action_sort_popular" android:title="@string/sort_popular"/>
+    <item android:id="@+id/action_sort_top_rated" android:title="@string/sort_top_rated"/>
+    <item android:id="@+id/action_sort_my_favorite" android:title="@string/sort_my_favorite"/>
+</menu>
